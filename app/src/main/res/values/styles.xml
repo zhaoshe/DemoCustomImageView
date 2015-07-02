@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="CustomViewStyle">
+        <item name="left_img">@drawable/demo1</item>
+        <item name="right_img">@drawable/demo2</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <!-- Customize your theme here. -->
+        <!--<item name="customViewStyle">@style/CustomViewStyle</item>-->
+    </style>
+
+</resources>
